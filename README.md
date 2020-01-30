@@ -10,4 +10,4 @@ I hope this isn't a problem!
 Even more text...This is about to cause trouble
 >>>>>>> very-bad
 
-On a new branch
+modified text
